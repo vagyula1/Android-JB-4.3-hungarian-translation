@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_effects">Nem állnak rendelkezésre hatások</string>
+    <string name="main_toggle_effects_title">Hangeffektusok</string>
+    <string name="headset_plug">Kérjük, dugja be a fejhallgatót ezekért a hatásokért</string>
+    <string name="pr_title">Visszhang:</string>
+    <string name="pr_summary">További visszhang hatások</string>
+    <string name="pr_dialog_title">Előre beállított hangkörnyezet</string>
+    <string name="setup">Beállítás</string>
+    <string name="user">Felhasználó</string>
+    <string name="picker_title">Zenei effektek kezelőpanelje</string>
+</resources>

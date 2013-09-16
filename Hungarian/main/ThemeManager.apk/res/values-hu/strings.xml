@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Témakezelő</string>
+    <string name="permlab_access_DrmThemeResources">DRM-védett média erőforrások olvasása</string>
+    <string name="permdesc_access_DrmThemeResources">Lehetővé teszi az alkalmazás számára, hogy olvasási hozzáférést kapjon a DRM-védett média erőforrásokhoz (Téma csomagok).</string>
+    <string name="permlab_set_theme">Globálisan alkalmazott téma beállítása</string>
+    <string name="permdesc_set_theme">Lehetővé teszi az alkalmazás számára, hogy megváltoztassa a telefon kinézetét.</string>
+</resources>
