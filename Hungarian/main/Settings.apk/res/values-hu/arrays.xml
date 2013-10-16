@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Európa</item>
@@ -216,7 +216,7 @@
         <item>hívásnapló módosítása</item>
         <item>naptár olvasása</item>
         <item>naptár módosítása</item>
-        <item>wi-fi hálózat keresése</item>
+        <item>Wi-Fi hálózat keresése</item>
         <item>értesítés</item>
         <item>hálózatkeresés</item>
         <item>telefonálás</item>
@@ -288,7 +288,9 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animáció ki</item>
+        <item>Animáció mérete: 0,25x</item>
         <item>Animáció mérete: 0,5x</item>
+        <item>Animáció mérete: 0,75x</item>
         <item>Animáció mérete: 1x</item>
         <item>Animáció mérete: 1,5x</item>
         <item>Animáció mérete: 2x</item>
@@ -297,7 +299,9 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animáció ki</item>
+        <item>Animáció mérete: 0,25x</item>
         <item>Animáció mérete: 0,5x</item>
+        <item>Animáció mérete: 0,75x</item>
         <item>Animáció mérete: 1x</item>
         <item>Animáció mérete: 1,5x</item>
         <item>Animáció mérete: 2x</item>
@@ -306,7 +310,9 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animáció ki</item>
+        <item>Animáció léptéke: 0,25x</item>
         <item>Animáció léptéke: 0,5x</item>
+        <item>Animáció léptéke: 0,75x</item>
         <item>Animáció léptéke: 1x</item>
         <item>Animáció léptéke: 1,5x</item>
         <item>Animáció léptéke: 2x</item>
@@ -365,5 +371,11 @@
         <item>Kérdés</item>
         <item>Soha nem engedélyezem</item>
         <item>Engedélyezés mindig</item>
+    </string-array>
+    <string-array name="notifs_beh_entries">
+        <item>Normál</item>
+        <item>Soha ne bővítse</item>
+        <item>Mindig bővítse</item>
+        <item>Régi stílus</item>
     </string-array>
 </resources>

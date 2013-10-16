@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <plurals name="show_dev_countdown">
         <item quantity="other">%1$d lépésre van attól, hogy fejlesztő legyen.</item>
         <item quantity="one">%1$d lépésre van attól, hogy fejlesztő legyen.</item>
